@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1637658238 source:c:\users\abdul\documents\c++programs\cqueue\src\cqueue.cpp
+	"cqueue.h"
+	<stdlib.h>
+	<iostream>
+
+1637658238 c:\users\abdul\documents\c++programs\cqueue\include\cqueue.h
+	"Q.h"
+
+1637659447 c:\users\abdul\documents\c++programs\cqueue\include\q.h
+
+1637658553 source:c:\users\abdul\documents\c++programs\cqueue\main.cpp
+	"cqueue.h"
+	"Q.h"
+	<iostream>
+	<stdlib.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1638266839 source:c:\users\abdul\documents\c++programs\dll\main.cpp
+	<iostream>
+	"DLinked.h"
+
+1638266639 c:\users\abdul\documents\c++programs\dll\include\dlinked.h
+
+1638266757 source:c:\users\abdul\documents\c++programs\dll\src\dlinked.cpp
+	"DLinked.h"
+	<iostream>
+	<dos.h>
+

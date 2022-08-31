@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1639474160 source:c:\users\abdul\documents\c++programs\dring\main.cpp
+	<iostream>
+	<stdlib.h>
+	<dos.h>
+	"Dring.h"
+
+1639476277 c:\users\abdul\documents\c++programs\dring\include\dring.h
+
+1639474160 source:c:\users\abdul\documents\c++programs\dring\src\dring.cpp
+	"Dring.h"
+	<iostream>
+	<dos.h>
+	<stdlib.h>
+
